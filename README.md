@@ -82,14 +82,13 @@ Rhio Sutoyo\
 
 ## 📊 Hasil Evaluasi
 
-  Model                             Accuracy   Macro F1
-  --------------------------------- ---------- ----------
-  TF-IDF + Logistic Regression      0.598      0.566
-  SentenceTransformer + LinearSVC   0.606      0.565
-  Fine-Tuned IndoBERT               0.70+      0.67+
+| Model | Accuracy | Macro F1 |
+|-------|----------|----------|
+| TF-IDF + Logistic Regression | 0.598 | 0.566 |
+| SentenceTransformer + LinearSVC | 0.606 | 0.565 |
+| Fine-Tuned IndoBERT | 0.70+ | 0.67+ |
 
-Model **Fine-Tuned IndoBERT** memberikan performa terbaik karena mampu
-memahami konteks bahasa secara lebih mendalam dibanding metode klasik.
+Model **Fine-Tuned IndoBERT** memberikan performa terbaik karena mampu memahami konteks bahasa secara lebih mendalam dibanding metode klasik.
 
 ------------------------------------------------------------------------
 
