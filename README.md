@@ -46,18 +46,14 @@ Namun pada proyek ini, hanya kolom teks dan label emosi yang digunakan.
 
 ### 📊 Ringkasan Dataset
 
--   Total Data: XXXX
+-   Total Data: 5400
 -   Jumlah Kelas: 5
 -   Bahasa: Indonesia
 
 ### 🔗 Sumber Dataset
 
 Rhio Sutoyo\
-(Tambahkan link Kaggle/Open Dataset di sini)
-
-### 📜 Lisensi
-
-(Tuliskan sesuai lisensi dataset)
+(https://www.kaggle.com/datasets/jocelyndumlao/prdect-id-indonesian-emotion-classification/data)
 
 ------------------------------------------------------------------------
 
