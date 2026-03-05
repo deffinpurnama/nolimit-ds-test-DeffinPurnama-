@@ -73,9 +73,10 @@ Rhio Sutoyo\
 ### 3️⃣ Fine-Tuned Transformer --- IndoBERT
 
 -   Model: `indobenchmark/indobert-base-p1`
--   Fine-tuning: 4 epoch
+-   Fine-tuning: Maksimal 5 Epoch
 -   Max sequence length: 128
 -   Learning rate: 2e-5
+-   Batch size: 16 (Train & Eval)
 -   Optimizer: AdamW
 
 ------------------------------------------------------------------------
