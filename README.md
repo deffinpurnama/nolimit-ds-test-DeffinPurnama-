@@ -144,24 +144,6 @@ Output:
 
 ------------------------------------------------------------------------
 
-## 📦 Penyimpanan Model
-
-Model Fine-Tuned IndoBERT disimpan secara lokal setelah training dan
-dapat dimuat kembali tanpa retraining.
-
-------------------------------------------------------------------------
-
-## 📈 Insight Utama
-
--   Fine-tuning transformer meningkatkan performa dibanding metode
-    klasik.
--   Kelas dengan polaritas mirip (Love dan Happiness) menunjukkan
-    overlap pada confusion matrix.
--   Macro F1 digunakan untuk evaluasi yang adil pada klasifikasi
-    multi-kelas.
-
-------------------------------------------------------------------------
-
 ## 📁 Struktur Repository
 
     nolimit-ds-test-<nama>/
