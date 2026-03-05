@@ -104,7 +104,8 @@ Model **Fine-Tuned IndoBERT** memberikan performa terbaik karena mampu memahami 
 7.  Fine-Tuning IndoBERT
 8.  Evaluasi (Accuracy & Macro F1)
 9.  Analisis Confusion Matrix
-10. Contoh Inferensi
+10. Menyimpan Model
+11. Contoh Inferensi
 
 Flowchart tersedia pada file `flowchart.png`.
 
@@ -152,4 +153,4 @@ Output:
     ├── requirements.txt
     ├── README.md
     ├── flowchart.png
-    └── sample_data.csv
+    └── dataset.csv
