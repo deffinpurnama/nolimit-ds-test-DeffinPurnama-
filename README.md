@@ -1,7 +1,7 @@
 # 🎭 Klasifikasi Emosi Bahasa Indonesia
 
 ** Data Scientist **\
-Pendekatan yang Digunakan: **Classification (Emotion Classification)**
+Pendekatan yang Digunakan: **Classification (Emotion Classification)**\
 **Demo App:** [Click here](https://huggingface.co/spaces/CompletelySmile/emotion-classifier-assesment)
 ------------------------------------------------------------------------
 
