@@ -1,8 +1,8 @@
 # 🎭 Klasifikasi Emosi Bahasa Indonesia
 
-**NoLimit Indonesia --- Data Scientist Hiring Test**\
-Opsi yang Dipilih: **Classification (Emotion Classification)**
-
+** Data Scientist **\
+Pendekatan yang Digunakan: **Classification (Emotion Classification)**
+**Demo App:** [Click here](https://huggingface.co/spaces/CompletelySmile/emotion-classifier-assesment)
 ------------------------------------------------------------------------
 
 ## 📌 Tujuan Proyek
